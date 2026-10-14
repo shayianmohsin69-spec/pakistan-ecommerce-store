@@ -1,0 +1,1 @@
+{"name":"pakistan-ecommerce-store","version":"1.0.0","private":true,"description":"PKR e-commerce demo with cart, checkout and admin product management","scripts":{"start":"node server.js"},"dependencies":{"express":"^4.21.2"}}
